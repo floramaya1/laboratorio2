@@ -5,7 +5,7 @@ int main(void) {
     char cadena[256];
 
     alumno_t alumno = {
-        .nombre = "Flor",
+        .nombre = "Florencia",
         .apellido = "Amaya",
         .documento = 42548553
     };
